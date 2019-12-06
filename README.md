@@ -22,6 +22,7 @@ Esta prova de conceito tem por fim demonstrar a importância de utilizar algum m
 ## Ideias para modificações ##
 
 A extensão do chrome pode ser adaptada para várias modalidades de login, não apenas do Wordpress.
+Uma outra ideia para incrementar a velocidade da quebra é abrir várias abas no browser.
 
 ## Clonando o Repositório ##
 Para baixar a extensão via git, digite:
