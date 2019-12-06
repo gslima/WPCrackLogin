@@ -1,0 +1,26 @@
+{
+  "name": "Wordpress Login Cracker",
+  "version": "1.0",
+  "manifest_version": 2,
+
+  "description": "Extensão do Chrome para quebrar o login do Worpress por força bruta",
+  "icons": {},
+  "content_scripts": [
+    {
+      "matches" : [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": ["jquery-1.1.3.js", "script.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "permissions": [
+	 	"clipboardWrite",
+		"activeTab",
+		"notifications",
+		"contextMenus",
+		"storage"
+  ]
+
+}
