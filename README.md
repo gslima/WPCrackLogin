@@ -17,7 +17,7 @@ As instruções para instalar uma extensão no Chrome pode ser encontrada [aqui]
 
 ## Motivação desta PoC (prova de conceito) ##
 
-Esta prova de conceito tem por fim demonstrar a importância de utilizar algum mecanismo adicional de verificação de login, como Chaptchas e Recapchas.
+Esta prova de conceito tem por fim demonstrar a importância de utilizar algum mecanismo adicional de verificação de login, como Captchas e Recapchas.
 
 ## Ideias para modificações ##
 
