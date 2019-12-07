@@ -7,7 +7,7 @@ function geradorAleatorio(length, chars) {
 function guessTentativa () {
 
 meuLogin.value = "papainoel"; // insira o login desejado (e-mail da pessoa)
-minhaSenha.value = geradorAleatorio(4, 'ABCDEFGHIJKLMNOPQRSTUVXYZabcdefghijklmnopqrstuvxyz1234567890'); // Insira o conjunto de caracteres
+minhaSenha.value = geradorAleatorio(4, 'ABCDEFGHIJKLMNOPQRSTUVXYZabcdefghijklmnopqrstuvxyz1234567890'); // Insira o tamanho da senha e o conjunto de caracteres
 
 form = document.getElementById("wp-submit"); // seleciona o formulario
 form.method = 'post'; // seleciona o método de envio do formulario
