@@ -6,6 +6,7 @@ Projeto open source para quebrar o login do wordpress (e outros) por força brut
 # Pré requisitos
 
 - Chrome (https://www.google.com/intl/pt-BR/chrome/)
+- Um servidor com Wordpress
 
 # Instalação
 
