@@ -1,5 +1,6 @@
 # wordpress-login-cracker
 Projeto open source para quebrar o login do wordpress (e outros) por força bruta
+(aviso: leva bastante tempo, conforme o tamanho da senha. Uma senha de 4 dígitos é quebrada em alguns minutos)
 
 ![wordpress-login-cracker](PoofCrackWordPress.gif)
 
